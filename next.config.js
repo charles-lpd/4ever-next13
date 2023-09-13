@@ -3,7 +3,7 @@ const nextConfig = {
   poweredByHeader: false,
   compress: false,
   reactStrictMode: false,
-  output: 'standalone'
+  output: 'static'
 }
 
 module.exports = nextConfig
